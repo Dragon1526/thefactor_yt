@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<head><title> Home </title></head>
+<body>
+<header>
+ 
+</header>
+<hr>
+<nav>
+<table cellspacing="5" cellpadding="10">
+<tr>
+<td><a href="HOME.html">HOME</a></td>
+<td><a href="FACTS.html">FACTS</a></td>
+<td><a href="VIDEOS.HTML">VIDEOS</a></td>
+<td><a href="QUOTES.HTML">QUOTES</a></td>
+<td><a href="ARTICLES.HTML">ARTICLES</a></td>
+<td><a href="BOOKS.html">BOOKS</a></td>
+</tr>
+</nav>
+</body>
+</html>
